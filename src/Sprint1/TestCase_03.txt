@@ -1,3 +1,0 @@
-some additional lines of code
-
-smoke test
